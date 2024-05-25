@@ -15,49 +15,88 @@ Após sair do Senac, iniciei um período de 2000 até 2008, trabalhando como clt
 
 Em 2008 inicie minha empresa a IESI - Inteligência Empresarial em Sistemas de Informação, onde prestava serviços de desenvolvimento de sistemas para diversas áreas no setor de varejo para controle de estoque e vendas de balcão, desenvolvi sistema para controle de acervo de imagens (quadros de arte), desenvolvi sistema para controle de documentos digitalizado para despachantes e seguradoras de veículos, fazia manutenção preventiva e corretiva em computadores e impressoras, revenda autorizada do programa de antivírus (F-Secure), atuando com estas atividades de 2008 até 2018, no início de 2019 conheci o mercado do marketing digital onde fazia anúncios no facebook e instagram, onde fui afiliado de produtos digitais, vendi quase meio milhão de reais com panelas antiaderentes que vinham da china, em 2022 por ter adquirido mais experiência como afiliado, iniciei o trabalho de gestor de tráfego para negócios locais, fazer anúncios mais direcionados para empresas locais, por se tratar de empresas com endereço fixo e por terem uma clientela na região, onde utilizada a ferramenta do Google Ads e em alguns casos o Youtube Ads, como estratégia de remarketing utilizava o facebook e o instagram ads.
 
-Ferramentas que no decorrer do tempo tive conhecimento e utilização direta no meu trabalho:
+# Ferramentas que no decorrer do tempo tive conhecimento e utilização direta no meu trabalho:
+
 	Gerente de Contas para Anúncios do Google ADS
+
 	Gerente de Contas para Anúncios do Youtube ADS
+
 	Gerente de Conta para Anúncios do Facebook ADS
+
 	Gerente de Conta para Anúncios do Instagrm ADS
+
 	Tarefas de Analista de Sistemas
+
 	Desenvolvimento de Sistemas com o Visual Studio C#, com banco de dados SQL-Server
+
 	Conhecimentos de Administrador de Banco de Dados (MS-Access, MySQL, Postgre e SQL Server)
+
 	Trabalhos com Tratamento de Dados com MS-Excel
+
 	Conhecimentos em (HTML, CSS, JavaScript, Python, PowerBI)
+
 	Desenvolvimento de Programas com o Programação Clipper 5.1
+
 	Desenvolvimento de Programas com o Programação Delphi
+
 	Desenvolvimento de Programas com o Programação Visual Basic
+
 	Desenvolvimento de Programas com o Programação MS-Acces
 
-Cursos e especializações:
+# Cursos e especializações:
+
 	Curso de Html, Css e JavaScript - Hashtag Treinamentos
+
 	Ferramenta de Análise de Dados Power BI - Hashtag Treinamentos
+
 	Linguagem de Programação Python - Hashtag Treinamentos
+
 	Palestra Portas Abertas, Despertando o Empresário, Coletando informações e Conhecendo seu negócio - SEBRAE Curitiba/PR
+
 	Como Vender Mais e Melhor - SEBRAE Curitiba/PR
+
 	Linguagem de Programação Visual Studio C# - SENAC Curitiba/PR
+
 	Organização e Métodos - SEN AC Curitiba/PR
+
 	Propaganda e Venda pela Internet - SENAC Curitiba/PR
+
 	Inglês Básico - SENAC Curitiba/PR
+
 	Gerenciamento de Banco de Dados PostgreSQL - SENAC Curitiba/PR
+
 	Gerenciamento de Banco de Dados MySQL - SENAC Curitiba/PR
+
 	Gerenciamento de Banco de Dados SQL Server - SENAC Curitiba/PR
+
 	Qualidade em Serviços (ISO 9000) - SENAC Curitiba/PR
+
 	Linguagem de Programação Visual Basic - SENAC Curitiba/PR
+
 	Linguagem de Programação Clipper Summer - SENAC Curitiba/PR
+
 	Sistema Operacional Windows e Windos For WorkGroups - SENAC Curitiba/PR
+
 	Pacote do Ms-Office Profissional (Word, Excel, PowerPoint e MS-Access) - SENAC Curitiba/PR
+
 	Linguagem de Programação DBaseIII Plus - SENAC Curitiba/PR
+
 	Sistema Operacional MS-Dos - SENAC Curitiba/PR
 
-Informações adicionais:
+# Informações adicionais:
+
 	Casado - 2 filhas - Não Fumante - Habilitação(C)
+
 	Experiência no Atendimento e Suporte a Clientes
+
 	Experiência em Reuniões Online via (Zoom e Meet)
+
 	Experiência nas áreas de Patrimônio e Planejamento/Pesquisa
+
 	Conhecimentos básicos na área de restaurante, de patrimônio, de contabilidade, de recursos humanos, de planejamento e pesquisa, de compras e do financeiro
+
 	Representação comercial de programa para área médica - instalação e treinamento ao usuário
+
 	Instrutor de Informática para o FAS - Fundação de Ação Social de Curitiba e para a Prefeitura Municipal de Pinhais com parceria do SENAI
 
 # O GitHub é algo novo no meu portifílio de conhecimento, estou construindo tudo aqui e logo estará pronto! :)
