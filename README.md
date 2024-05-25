@@ -4,7 +4,7 @@ Pretendo ter aqui os projetos que trabalhei e ter um hitórico dos diversos prog
 
 # Um resumo da minha visão, da minha trajetória...
 
-Eu Valdir Leal Rocha! Brasileiro, Paranaense, Curitibano, Casado com uma pessoal muito especial "Sylvia Maria", onde tivemos duas lindas e maravilhosas filhas "Marcia Maria e Ana Clara".
+Eu Valdir Leal Rocha! Brasileiro, Paranaense, Curitibano, Casado com uma pessoal muito especial "Sylvia Maria", onde tivemos duas lindas e maravilhosas filhas "Marcia Maria e Ana Clara" e não poderia esquecer e registrar nossas pet´s "Rebeca e Lola" anjos em nossas vidas!
 
 Enquanto jovem (acho que entre 8 e 14 anos) trabalhei com minha mãe (cozinheira) em dois restaurantes, como ajudante de garçom, levava bebidas e recolhia as mesas, era numa pizzaria e outro uma casa de sopas, num antigo e já fechado Shopping Center de Pinhais, onde ficava o Carrefour Pinhais.
 
